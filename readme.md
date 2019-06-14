@@ -12,8 +12,8 @@ To start using this project use the following commands:
 | Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
 |------------------------------------------------|--------------------------------|-------------------------------------|
 | User required to enters invalid name and email in the form | click on photo         | name and email invalid              |
-| User required to enters valid mail and email in the form   | email: example@gmail.com name: Dan | name and email valid                |
-| User required to enters text in the message text area      |  Hi Charles form submitted           | Thank you for submitting your form. |
+| User required to enters valid mail and email in the form   | email: example@gmail.com name: Tina | name and email valid                |
+
 
 ## Technologies Used
 * HTML
