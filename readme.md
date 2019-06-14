@@ -4,7 +4,7 @@
 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
-1.git clone 
+1.git clone https://github.com/tinatasha/delani.git
 2.cd delani
 3.Open in browser
 
