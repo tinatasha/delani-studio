@@ -1,0 +1,92 @@
+body{
+    margin:0px;
+    overflow-x: hidden;
+}
+.row-t{
+    background-image: url('/home/moringa/Downloads/studio-delani/assets/backgrounds/h_img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 150px;
+    margin-bottom: 40px;
+}
+.p1{
+    text-align: center;
+    margin: 2% 20% 5% 20%;
+}
+.row-yx{
+    background-image: url('/home/moringa/Downloads/studio-delani/assets/backgrounds/s_image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 340px;
+}
+#serv{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    color: white;
+    margin-left:25%;
+    margin-top:7%;
+    margin-bottom:14%;
+}
+.h1-2{
+    color: aliceblue;
+    text-align:center;
+}
+.brito{
+    color: white;
+}
+.col{
+    align-content: center;
+    text-align: center;
+}
+.cont-a{
+    display: flex;
+    flex-direction: center;
+    justify-content:space-around; 
+}
+h3{
+    text-align: center;
+    margin: 50px;
+}
+.img-t{
+    margin-bottom: 200px;
+   
+    margin-left: 50%;
+}
+.space{
+    padding: 15px;
+    justify-content: space-between;
+}
+#contact-s{
+    background-image: url('/home/moringa/Downloads/studio-delani/assets/backgrounds/c_image.jpg');
+    margin:20px;
+}
+.foot-c{
+    text-align: center;
+    padding-top: 3%;
+}
+.mid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background: white;
+    opacity: 0.55;
+    font-weight: bolder;
+}
+.effect{
+    background: none;
+    opacity: 0.4;
+}
+
+
